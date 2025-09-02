@@ -1,2 +1,1 @@
-# Classification-Problem-ANN-
-Neural Network-based Binary Classification
+mplemented a feedforward neural network using MLPClassifier from scikit-learn with two hidden layers (64 and 32 neurons) and ReLU activation to classify 2D data points into two categories.Preprocessed dataset by encoding categorical labels and applying an 80:20 train-test split for model training and validation.Achieved high test accuracy and visualized the decision boundary along with data point distributions using Matplotlib.
